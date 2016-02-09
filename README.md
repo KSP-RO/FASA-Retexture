@@ -1,5 +1,5 @@
-# FASA-Retexture Pack for RO
+# FASA-Retexture Pack
 
-RO FASA Retexture to replace "Kerbal States" with "United States" on parts.
+FASA Retexture to replace "Kerbal States" with "United States" on parts.
 
 License: CC-BY-NC-SA
